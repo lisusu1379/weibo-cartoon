@@ -1,5 +1,5 @@
 <template>
-  <div id="page-rank">
+  <div class="page-rank">
     <h1>榜单页面</h1>
   </div>
 </template>

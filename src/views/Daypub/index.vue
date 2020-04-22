@@ -1,5 +1,5 @@
 <template>
-  <div id="page-daypub">
+  <div class="page-daypub">
     <h1>放送表页面</h1>
   </div>
 </template>

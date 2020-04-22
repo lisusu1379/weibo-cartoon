@@ -60,6 +60,10 @@ const router = new VueRouter({
     {
       path: '/search',
       component: Search
+    },
+    {
+      path: '/',
+      redirect: '/home'
     }
   ]
 })

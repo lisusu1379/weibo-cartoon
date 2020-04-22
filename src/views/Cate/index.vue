@@ -1,5 +1,5 @@
 <template>
-  <div id="page-cate">
+  <div class="page-cate">
     <h1>分类页面</h1>
   </div>
 </template>
